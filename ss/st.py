@@ -9,7 +9,7 @@ from sys import exit
 
 
 reddit = praw.Reddit(client_id="1wAJ0w0ZnjcnCw",
-                     client_secret="fOiOd1qWBnuoJrH4pygV4eBTxMD7eg-3xOxZQaraifg",
+                     client_secret="fOiOd1qWBnuoJrH4pygV4eBTxMD7eg",
                      password="12345678",
                      user_agent="posted by u/successful-ad-8956",
                      username="successful-ad-8956")
