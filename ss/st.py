@@ -56,7 +56,7 @@ for subreddit in subreddits:
     print(subreddit)
     reddit.validate_on_submit = True
     submission = reddit.subreddit(subreddit).submit(title,url=url)
-    com = " [click here:]({}) {}".format(comment, name)
+    com = " #[click here:]({}) {}".format(comment, name)
     time.sleep(10)
     submission.reply(com)
     print ("done")
@@ -77,7 +77,7 @@ for subreddit in subreddits:
     print(subreddit)
     reddit.validate_on_submit = True
     submission = reddit.subreddit(subreddit).submit(title2,url=url2)
-    com = " [click here:]({}) {}".format(comment2, name)
+    com = " #[click here:]({}) {}".format(comment2, name)
     time.sleep(10)
     submission.reply(com)
     print ("done")
@@ -98,7 +98,7 @@ for subreddit in subreddits:
     print(subreddit)
     reddit.validate_on_submit = True
     submission = reddit.subreddit(subreddit).submit(title3,url=url3)
-    com = " [click here:]({}) {}".format(comment3, name)
+    com = " #[click here:]({}) {}".format(comment3, name)
     time.sleep(10)
     submission.reply(com)
     print ("done")
