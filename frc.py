@@ -5,11 +5,12 @@ import random
   
 # initialize with appropriate values 
 
-reddit = praw.Reddit(client_id="xorYccj4pyvrkA", #14 letter key
-                     client_secret="7QoJJGMxS3HjfKnK5QwHtYgf-cCiEA", #27 letter key
+reddit = praw.Reddit(client_id="xTse6oms2SDcvg", #14 letter key
+                     client_secret="K6NePvh1RDSvgr-FCF1iebaaLOA_Uw", #27 letter key
                      password="12345678",
-                     user_agent="testscript by u/International_Nail42",
-                     username="International_Nail42")
+                     user_agent="testscript by u/PhotographOk2961",
+                     username="PhotographOk2961")
+ 
  
  
 result = pyfiglet.figlet_format("Dylan OP") 
@@ -34,7 +35,7 @@ print("Crossposting started----------------------------------")
 sublist = ["leakedstuff2,18_20", "AdorableOnlyfans", "ALEXASMORGANNN",
 "AllisonParkersexypics", "AmandaNicole", "Amateur_Bitches",
 "AmateurGoneWildPlus", "AmateurWhores", 
-"announcements", "Ayonnarenee", "Bad_Hunnies", "BaddestGirls", 
+ "Ayonnarenee", "Bad_Hunnies", "BaddestGirls", 
 "Barbie_Gracia", "BestAssesNSFW", 
 "Bestcamnudes", "bigasses", "BoobsBetweenArms", 
 "BoobsNSFW", "Booty_Lovers",
